@@ -102,11 +102,13 @@ main()
 #            find files with ext
 # process - display all processed
 
-# myosapi.py
-# Myapi
-# - findbiggest(root)
-# - findextfiles(root)
-# - display all process
-# Main
-# import myosapi
-# execute 3 methods
+# create myosapi.py
+# inside myosapi.pi create Myapi class
+# Myapi class will have 3 functions:
+# - find_biggest(root)
+# - find_ext_files(root, ext_name)
+# - display_all_process()
+# create main.py
+#   import myosapi
+#   create Myapi class
+#   execute 3 functions
